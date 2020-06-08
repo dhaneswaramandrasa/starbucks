@@ -20,7 +20,8 @@ https://github.com/dhaneswaramandrasa/starbucks.git
 <a name="pro"></a>
 # Project Motivation
 
-The project is aiming to:
+The project is aiming to help Starbucks to understand more about their members and also to create these two models:
+
 1. Offer View and Completed Prediction Model
 
 Imagined yourself as a young adult female with average income and while you check your mobile phone, you see an ad: a BOGO promotion from Starbucks that will expired 3 days from now. Will you used the promotion? 
