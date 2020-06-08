@@ -41,7 +41,7 @@ The full set of data is available here. There is a notebook available to explain
 
 <a name="res"></a>
 # Result
-
+You may see the blog post about the project here: https://medium.com/@dhaneswara.mandrasa/starbucks-promotional-campaigns-will-you-spend-your-money-9e8e965ab3d
 
 <a name="lic"></a>
 # Licensing, Authors, Acknowledgements
