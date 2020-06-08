@@ -22,10 +22,15 @@ https://github.com/dhaneswaramandrasa/starbucks.git
 
 The project is aiming to:
 1. Offer View and Completed Prediction Model
+
 Imagined yourself as a young adult female with average income and while you check your mobile phone, you see an ad: a BOGO promotion from Starbucks that will expired 3 days from now. Will you used the promotion? 
+
 Or imagined if you are a wealthy busy middle-aged adult male. Will you even have the time to see that ad from Starbucks? Or maybe turns out you will used the BOGO promotion directly within your nearest Starbucks shop?
+
 This model aimed to predict whether particular customer within certain demographic group will viewed or/and completed the offer that Starbucks sent. 
+
 2. Average Spending Prediction Model
+
 How effective is the offer that Starbucks gives to you in relation to the average transactions? If you received and viewed certain offers from Starbucks, how much amount of transactions that you would spend in Starbucks? This model aimed to know in average how much you will spent after see offers until the validity period expired.
 
 <a name="fil"></a>
